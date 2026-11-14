@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Primebot local workspace and robot data
+.DS_Store
+/install/
+/log/
+/sdk/
+*.local.yaml
+*.local.json
+*.bag
+*.db3
+*.mcap
+*.pem
+*.key
+
+# ROS2 build outputs inside vendored SDK workspaces
+/third_party/primebot/**/install/
+/third_party/primebot/**/log/
+
+# Preserve upstream source changelogs in SDK snapshots
+!/third_party/primebot/**/change.log
