@@ -1,6 +1,6 @@
 # 入门路线
 
-本文为待验证的准备清单，具体安装与运行命令以所选版本的官方 SDK 指南为准。
+完整步骤、可复制命令及 Python/C++ 开发范例请阅读 [Q1 / T1 SDK 二次开发操作手册](development-guide.md)。本文保留为简要准备清单；相关流程尚待 Ubuntu 与真机验证。
 
 1. 确认机器人机型、固件、SDK 版本并登记到[兼容记录](compatibility.md)。
 2. 准备开发环境。本地 `v1.0.0.0` 指南推荐 Ubuntu 22.04 + ROS2 Humble + FastDDS，暂不支持 Mac/Windows 原生 SDK 开发。PrimeConsole 的桌面平台支持与 SDK 开发环境应分别确认。

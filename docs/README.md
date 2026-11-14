@@ -1,5 +1,6 @@
 # 文档导航
 
+- [完整开发操作手册](development-guide.md)
 - [入门路线](getting-started.md)
 - [官方资源索引](resources.md)
 - [版本兼容记录](compatibility.md)
